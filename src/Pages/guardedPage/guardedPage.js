@@ -1,6 +1,6 @@
 import React from 'react'
 
-const guardedPage = () => {
+const GuardedPage = () => {
   return(
     <>
       Protected page
@@ -8,4 +8,4 @@ const guardedPage = () => {
   )
 }
 
-export default guardedPage;
+export default GuardedPage;

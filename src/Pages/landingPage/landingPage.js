@@ -1,6 +1,6 @@
 import React from 'react'
 
-const landingPage = () => {
+const LandingPage = () => {
   return(
     <>
       Landing Page
@@ -8,4 +8,4 @@ const landingPage = () => {
   )
 }
 
-export default landingPage;
+export default LandingPage;
